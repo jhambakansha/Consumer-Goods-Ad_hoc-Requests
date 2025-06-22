@@ -51,6 +51,12 @@ The full list of all 10 questions and answers is covered in the presentation and
 - ✅ Power BI visuals: line charts, bar charts, matrix tables, maps
 - ✅ Business storytelling: clear, decision-ready insights
 - ✅ Optional recorded video walkthrough
+---
+
+## 📎 Links
+
+- 🎨 [Canva Presentation](https://shorturl.at/B1SPg)
+- 📂 [Google Drive (Video Presentation)](https://shorturl.at/rO7DN)
 
 ---
 
